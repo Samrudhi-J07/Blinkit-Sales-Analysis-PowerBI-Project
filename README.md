@@ -14,6 +14,14 @@ This project presents an interactive Power BI dashboard created to analyze Blink
 - KPI cards displaying total sales, revenue, and order volume
 - Interactive filters for deep insights
 
+## 📸 Dashboard Preview
+
+![Blinkit Sales Dashboard](dashboard7.png)
+
+*Figure: Interactive Power BI dashboard visualizing Blinkit sales performance and KPIs.*
+
+
+
 ## 🛠 Tools & Technologies
 - Power BI
 - MS Excel
